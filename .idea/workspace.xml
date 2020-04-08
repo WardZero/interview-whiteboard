@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39a3e2b5-6f5f-481e-89fe-34453a25e29c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SeylpBBDmBCF2YWkAKrI5sPJHd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wfdss.interviewquestions.Main" />
+      <module name="InterviewWhiteboardQuestions" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39a3e2b5-6f5f-481e-89fe-34453a25e29c" name="Default Changelist" comment="" />
+      <created>1571938509419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571938509419</updated>
+      <workItem from="1571938513355" duration="3791000" />
+      <workItem from="1571942372562" duration="25000" />
+      <workItem from="1571942421327" duration="11000" />
+      <workItem from="1571942451768" duration="247000" />
+      <workItem from="1571953880756" duration="2398000" />
+      <workItem from="1572300118260" duration="34000" />
+      <workItem from="1572381168043" duration="54000" />
+      <workItem from="1572464893981" duration="678000" />
+      <workItem from="1572897701989" duration="1791000" />
+      <workItem from="1573235766140" duration="1284000" />
+      <workItem from="1573573416674" duration="58000" />
+      <workItem from="1573577425307" duration="1140000" />
+      <workItem from="1574275892652" duration="1445000" />
+      <workItem from="1576273430728" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
